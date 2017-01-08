@@ -14,11 +14,11 @@ h1{
 h2{
 	font-size:20px;
 }
-p{
+.info{
 	margin-left: 60px;
 	font-size:20px;
 }
 .img{
-text-align:right;
-padding-bottom: -80px;
+text-align: right;
+max-height:40px;
 }
