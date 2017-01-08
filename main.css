@@ -1,0 +1,24 @@
+
+div{
+	font-family: helvetica;
+	padding:40px;
+	border:1px solid grey;
+}
+
+h1{
+	color:black;
+	text-align:center;
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+h2{
+	font-size:20px;
+}
+p{
+	margin-left: 60px;
+	font-size:20px;
+}
+.img{
+text-align:right;
+padding-bottom: -80px;
+}
