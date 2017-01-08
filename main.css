@@ -22,3 +22,7 @@ h2{
 text-align: right;
 max-height:40px;
 }
+ul{
+	margin-left: 60px;
+	font-size:20px;
+}
